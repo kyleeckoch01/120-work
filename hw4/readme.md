@@ -8,5 +8,5 @@ The process I went through to create my piece was:
 5. Finished this read.me
 6. Uploaded my files to GitHub and to the discussion forum
 
-My code:
+My code:s
   ![Image of my editor](portraihw4.png)
