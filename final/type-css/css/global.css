@@ -1,0 +1,24 @@
+.container{
+	width: 750px;
+	margin: 0 auto;
+	padding: 50px 0;
+}
+
+body,h1,h2,h3,h4,h5,h6{
+	font-family: 'Libre Baskerville', serif;
+	background-color: #050505;
+	color: #ffffff;
+	
+}
+
+h1,h2,h3,h4,h5,h6{
+	background-color: #ebb452
+}
+
+body{
+	color: #b8b4b4;
+}
+
+h1{
+	font-size:40px;
+}
